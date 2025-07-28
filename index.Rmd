@@ -1,0 +1,28 @@
+--- 
+title: "QuitUSM"
+#author: "John Doe"
+#date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  The HTML output format for this example is bookdown::gitbook,
+  set in the _output.yml file.
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# Introduction
+
+This is a guide on how to quit USM, condensed from multiple books on addiction as well as inspired by my own experience. USM stands for "unhealthy social media". I use this term because I believe that social media platforms are not 100% bad when used in very specific ways: for example, using Instagram only to call friends. USM includes any use of social media which you recognize is unhealthy for you, you want to stop doing, is addictive, or is pointless, 
+
+The intended audience is anyone who wants to cut down or quit their USM use, from someone who uses it "only" half an hour per day to heavy users who use it most of the day.
+
+I myself was addicted to video games and USM for years. Like many, I made attempts to cut down or quit, but failed every time. I feared I was chained to USM for life and even if I did quit I would slip back down eventually. I looked down on myself for not having enough willpower to stop. Today I am completely free from USM and video game addiction. I learned that addiction is not a problem of having enough willpower, but a fiendish puzzle. Frustratingly hard to solve on your own, but if you know the answer, it becomes trivial. I wrote this guide to share the answer to the puzzle with as many people as possible.
+
+When I say "addiction" I don't mean to scare you or bring up images of drug abusers who would do anything for a fix. The fact is that USM is inherently physically addictive, in that as you use it you need more and more to get the same result, and you experience withdrawals and cravings when you are not using it. Most Americans are physically addicted to USM, many without realizing. Don't worry, the fact that you're addicted won't make it any harder to quit. In fact, it will be slightly easier now because you're closer to solving the puzzle.
+
+This guide is more like a set of notes than a book. If concepts don't stick or you're confused, reread sections. Refer back to the guide if you're having trouble - it's definitely possible you forgot something. Take notes on the most important or most impactful points. 
