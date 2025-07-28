@@ -27,4 +27,4 @@ QuitUSM by Mohamed Lashuel is licensed under [CC-BY 4.0](ttps://creativecommons.
 
 <img src="images/cc.png" alt="License" width="120"/>
 
-This website's code is open source and hosted on [GitHub](https://github.com/MohamedLashuel/QuitUSM/). Source code is licensed under the [MIT License](https://github.com/MohamedLashuel/QuitUSM/blob/main/LICENSE)
+This website's code is open source and hosted on [GitHub](https://github.com/MohamedLashuel/QuitUSM/). Source code is licensed under the [MIT License](https://github.com/MohamedLashuel/QuitUSM/blob/main/LICENSE).
