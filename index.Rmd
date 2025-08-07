@@ -7,24 +7,26 @@ documentclass: book
 url: https://mohamedlashuel.github.io/QuitUSM
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  Placeholder description
+  A free guide on quitting social media
 github-repo: MohamedLashuel/QuitUSM
 ---
 
 # Introduction
 
-This is a guide on how to quit USM, condensed from multiple books on addiction as well as inspired by my own experience. USM stands for "unhealthy social media". I use this term because I believe that social media platforms are not 100% bad when used in very specific ways: for example, using Instagram only to call friends. USM includes any use of social media which you recognize is unhealthy for you, you want to stop doing, is addictive, or is pointless, 
+This is a guide on how to quit unhealthy social media (USM), condensed from multiple books on addiction as well as inspired by my own experience. I use the term USM because I believe that social media platforms are not 100% bad when used in very specific ways: for example, using Instagram only to call friends. USM includes any use of social media which you recognize is unhealthy for you, you want to stop doing, is addictive, or is pointless. 
 
 The intended audience is anyone who wants to cut down or quit their USM use, from someone who uses it "only" half an hour per day to heavy users who use it most of the day.
 
-I myself was addicted to video games and USM for years. Like many, I made attempts to cut down or quit, but failed every time. I feared I was chained to USM for life and even if I did quit I would slip back down eventually. I looked down on myself for not having enough willpower to stop. Today I am completely free from USM and video game addiction. I learned that addiction is not a problem of having enough willpower, but a fiendish puzzle. Frustratingly hard to solve on your own, but if you know the answer, it becomes trivial. I wrote this guide to share the answer to the puzzle with as many people as possible.
+I myself was addicted to video games and USM for years. Like many, I made attempts to cut down or quit, but failed every time. I feared I was chained to USM for life and even if I did quit I would slip back down eventually. I looked down on myself for not having enough willpower to stop. Today I am completely free from USM and video game addiction. I didn't do it with incredible self-control or with the encouragement of friends and family - it was a matter of reading the right ideas and coming to the right realizations at the right time. I learned that addiction is not a problem of having enough willpower, but a fiendish puzzle - frustratingly hard to solve on your own, but if you know the answer, it becomes trivial. I wrote this guide to share the answer to the puzzle with as many people as possible, because I believe that anyone can not only quit USM but be FREE. I say this as someone who went through the worst of it and knows the shame, self-doubt, and fear caused by being addicted.
 
-When I say "addiction" I don't mean to scare you or bring up images of drug abusers who would do anything for a fix. The fact is that USM is inherently physically addictive, in that as you use it you need more and more to get the same result, and you experience withdrawals and cravings when you are not using it. Most Americans are physically addicted to USM, many without realizing. Don't worry, the fact that you're addicted won't make it any harder to quit. In fact, it will be slightly easier now because you're closer to solving the puzzle.
+When I say "addicted" I don't mean to scare you or bring up images of drug abusers who would do anything for a fix. The fact is that USM is inherently physically addictive, in that as you use it you need more and more to get the same result, and you experience withdrawals and cravings when you are not using it. Most Americans are physically addicted to USM, many without realizing. Don't worry, the fact that you're addicted won't make it any harder to quit. In fact, it will be slightly easier now because you're closer to solving the puzzle.
 
 This guide is more like a set of notes than a book. If you skim, there's a good chance you miss an important point and don't understand the message. If concepts don't stick or you're confused, reread sections. Refer back to the guide if you're having trouble - it's definitely possible you forgot something. Take notes on the most important or most impactful points. 
+
+I'd wish you good luck, but you won't need it.
 
 QuitUSM by Mohamed Lashuel is licensed under [CC-BY 4.0](ttps://creativecommons.org/licenses/by/4.0/).
 
 <img src="images/cc.png" alt="License" width="120"/>
 
-This website's code is open source and hosted on [GitHub](https://github.com/MohamedLashuel/QuitUSM/). Source code is licensed under the [MIT License](https://github.com/MohamedLashuel/QuitUSM/blob/main/LICENSE).
+This website's code is open source and hosted on Github [here](https://github.com/MohamedLashuel/QuitUSM/). Source code is licensed under the [MIT License](https://github.com/MohamedLashuel/QuitUSM/blob/main/LICENSE).
