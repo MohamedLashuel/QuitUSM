@@ -4,8 +4,8 @@ author: "Mohamed Lashuel"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
+classoption: openany
 url: https://mohamedlashuel.github.io/QuitUSM
-# cover-image: path to the social sharing image like images/cover.jpg
 description: |
   A free guide on quitting social media
 github-repo: MohamedLashuel/QuitUSM
@@ -37,4 +37,4 @@ QuitUSM by Mohamed Lashuel is licensed under [CC-BY 4.0](ttps://creativecommons.
 
 <img src="images/cc.png" alt="License" width="120"/>
 
-This website's code is open source and hosted on Github [here](https://github.com/MohamedLashuel/QuitUSM/). Source code is licensed under the [MIT License](https://github.com/MohamedLashuel/QuitUSM/blob/main/LICENSE).
+This website's code is open source and hosted on Github [here](https://github.com/MohamedLashuel/QuitUSM/) licensed under the [MIT License](https://github.com/MohamedLashuel/QuitUSM/blob/main/LICENSE).

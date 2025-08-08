@@ -1,5 +1,0 @@
-# Appendix B: Useful Software
-- [LeechBlock NG](https://www.proginosko.com/leechblock/): A completely free, fully features website blocker available for most browsers. Also works on mobile browsers.
-- [Cold Turkey](https://getcoldturkey.com/): Downloadable website blocker for windows/mac. Because it is an app rather than a browser extension, it's harder to disable, but only basic features are free.
-- uBlacklist for [Chrome](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/), [Safari](https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640): Blocks websites from appearing in search results
-- [uBlock Origin](https://ublockorigin.com/): Ad blocker that can also block distracting elements from web sites.
