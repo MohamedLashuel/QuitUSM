@@ -9,6 +9,7 @@ url: https://mohamedlashuel.github.io/QuitUSM
 description: |
   A free guide on quitting social media
 github-repo: MohamedLashuel/QuitUSM
+cover-image: images/logo.png
 ---
 
 # Introduction
