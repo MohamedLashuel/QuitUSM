@@ -21,5 +21,5 @@ All popular social media apps are free. They make income by showing advertisemen
 Again, the more time you spend on their apps, the more data they collect and the more advertisements they can show you. Thus, they have an incentive to keep you on their apps for as much time as possible. Features like infinite scrolling and autoplay seek to make using their apps as frictionless as possible so you spend more time on them without realizing it. They also love to send you notifications, because each time you click on them and open the app is more time spent.
 
 ## Other factors
-- *Availability*: For most of us, our phones are with us 24/7, with social media apps taking only a few seconds to access. This makes it easy to act on impulses and build habits of opening them
+- *Availability*: For most of us, our phones are with us 24/7, with social media apps taking only a few seconds to access. This makes it easy to act on impulses and build habits of opening them. It also naturally fills up our downtime, such as if we're waiting at a bus stop.
 - *Fear of missing out (FOMO)*: Humans hate being excluded socially. When putting down, for example, Facebook or Instagram, we worry about missing out on friends' activities. We also like being "in the loop" on current events and trends. It feels uncomfortable to not have access to this information if we are used to it.

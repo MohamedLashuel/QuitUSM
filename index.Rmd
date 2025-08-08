@@ -13,7 +13,15 @@ github-repo: MohamedLashuel/QuitUSM
 
 # Introduction
 
-This is a guide on how to quit unhealthy social media (USM), condensed from multiple books on addiction as well as inspired by my own experience. I use the term USM because I believe that social media platforms are not 100% bad when used in very specific ways: for example, using Instagram only to call friends. USM includes any use of social media which you recognize is unhealthy for you, you want to stop doing, is addictive, or is pointless. 
+This is a guide on how to quit unhealthy social media (USM), condensed from multiple books on addiction as well as inspired by my own experience. I use the term USM because I believe that social media platforms are not 100% bad when used in specific ways. Social media use is USM if, for, example:
+
+- You want to quit it, but can't
+- You use it much more than you intend to
+- You obsess over it while you're not using it
+- You find it difficult to be without it
+- It gets in the way of real life
+
+This is in contrast to healthy social media use, which enriches your life, by e.g. allowing you to connect with loved ones who are physically far away.
 
 The intended audience is anyone who wants to cut down or quit their USM use, from someone who uses it "only" half an hour per day to heavy users who use it most of the day.
 
