@@ -3,7 +3,7 @@ At this point, even if you recognize that USM doesn't give you real pleasure, yo
 
 Another type of "benefit" is the excuse. I define an excuse as anything used to justify USM use but isn't the real reason they use USM. To use an analogy, smokers may say they smoke because they enjoy their particular brand of cigarettes. In reality if their preferred brand wasn't available, they would still smoke whatever was on hand. The most important reason we use USM is to feed the little monster, but users feel uncomfortable with that idea and find the excuses much easier to swallow. It doesn't help that everyone else is also using excuses and so we give them more validity in our minds. This process is only semi-conscious and often addicts don't know they're doing it, so whatever benefit you see in USM, try to interrogate it. Would you still use USM without that benefit? If so, it's an excuse.
 
-::: {.rmdnote}
+::: {.rmdnote data-latex=""}
 If you rationally weighed up the costs and benefits of using, the costs would win ten times over.
 :::
 
@@ -45,7 +45,7 @@ On the impersonal side, there is keeping up with news and politics. If you're lo
 
 If you think social media is good for political content, here is an experiment you can try. Seek out a political group on social media that opposes your beliefs. If you read through them, you will probably notice lots of misinformation and nonsensical points. People tend to believe almost anything if it's repeated over and over among people they know, like, or see common ground with. Over time, this creates an "echo chamber", where false facts are never challenged and keep growing. What is happening to these people is also happening to you, it doesn't matter how "rational" you think you are. All users on social media are exposed to staggering amounts of fake news, and since nobody fact-checks every single thing they read this inevitably turns into false beliefs. Garbage in, garbage out.  Here's one more study: Researchers from Carnegie Mellon judged 45% of tweets about the coronavirus in early 2020 to be likely written by bots contributing to over 100 false narratives.^[https://www.kpbs.org/news/2020/may/20/researchers-nearly-half-of-accounts-tweeting/]
 
-::: {.rmdnote}
+::: {.rmdnote data-latex=""}
 Each side thinks they are perfectly logical and obviously correct while the other side is crazy.
 :::
 

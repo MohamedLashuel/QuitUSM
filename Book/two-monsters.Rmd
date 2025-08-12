@@ -3,7 +3,7 @@
 ## The little monster
 In Chapter \@ref(dopamine) I went over dopamine. The main reason we use USM is to end dopamine withdrawal and feed the "little monster". The little monster awakens when we go through dopamine withdrawal. Whenever you have free time, it feels like something is missing. You feel empty or restless - this is the little monster begging to be fed. If we give in to it, we are satisfied momentarily, but once we put down USM, dopamine levels start to decrease, starting the cycle over again.
 
-::: {.rmdnote}
+::: {.rmdnote data-latex=""}
 Dopamine withdrawal is caused by USM use, not relieved by it. No non-user ever went through USM withdrawal.
 :::
 
@@ -21,7 +21,7 @@ I mentioned that USM users are fooled into thinking thinking that there is a gen
 
 You may be thinking "I know that already" but it probably hasn't truly sunk in. The problem is that the facts don't fit in with a user's experience. It is when you are using USM that you feel normal, and when you are not using, you suffer from withdrawal. When you feel low and empty, as soon as you pick up USM, your problem is cured. Your brain makes the obvious connection: using social media makes you feel better, not using it makes you feel bad, therefore it must be a good thing. This is the opposite of the truth - whenever you stop USM you feel bored, or empty, or depressed, but this is caused itself by using USM. Addicts think that their problems will be solved by the next hit of their drug, but in reality they were caused by the previous hit - an endless cycle until you break out.
 
-::: {.rmdnote}
+::: {.rmdnote data-latex=""}
 Using USM is like wearing tight shoes all day to get the "pleasure" of taking them off. Taking the shoes off is a relief, but only from the pain it causes.
 :::
 

@@ -35,7 +35,7 @@ I'd wish you good luck, but you won't need it.
 
 <hr>
 
-This book can be downloaded as a [PDF](main.pdf) or [EPUB](main.epub) file.
+This book can be downloaded as a [PDF](main.pdf) file.
 
 QuitUSM by Mohamed Lashuel is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 

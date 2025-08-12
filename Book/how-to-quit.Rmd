@@ -1,7 +1,7 @@
 # How to quit
 Earlier, I stated that addicts are people who are torn between wanting to quit and wanting to use. The central message of this guide so far has been: There is virtually no benefit from using USM. If you have properly absorbed this, and no longer want to use USM, you are no longer an addict. You are free.
 
-::: {.rmdnote}
+::: {.rmdnote data-latex=""}
 You will probably still have cravings from the little monster, but you should recognize using USM would only keep them going.
 :::
 
@@ -28,7 +28,11 @@ The reason I instructed you to delete your accounts and apps is because in today
 
 Another dangerous factor is "just one peek". If you are seriously tempted to take one peek, either you want to end your cravings or you still believe you are missing out on some pleasure or positive from USM. If it's the former, one peek won't end your cravings because USM causes cravings. As soon as you're done, the little monster will say "I want another". The only way to get rid of cravings is to stop using USM. If it's the latter, this is the work of the big monster. Something hasn't set in properly. Reread chapters \@ref(two-monsters) and \@ref(benefits) to convince yourself there's no benefit to USM.
 
-::: {.rmdnote}
+::: {.rmdcaution data-latex=""}
+Those who find it easy to quit may also find it easy to start again because they lose their fear. USM is much easier to quit than to control.
+:::
+
+::: {.rmdnote data-latex=""}
 If you could go back to before you began using USM and had the choice whether to do it or not, which would you choose? You have that choice now.
 :::
 

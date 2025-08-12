@@ -12,7 +12,7 @@ As stated previously, addicts both want to keep using and want to quit. The typi
 
 The hope is that if you can go long enough without using USM, the desire to use it will go away. This does work for many people, it sinks in that life is better without USM and the former addict can live freely. But overall, the rate of failure is high for the reasons I listed above. Even if one succeeds, since they haven't beaten the big monster they might be pining to use USM long after they kicked the physical addiction.
 
-::: {.rmdnote}
+::: {.rmdnote data-latex=""}
 Quitting with willpower is hard because you are trying to not do something you desparately want to do.
 :::
 
@@ -26,7 +26,7 @@ During attempts to quit, the little monster will periodically pop up and cry out
 
 Once you realize the big monster is entirely irrational and no longer believe what it says, cravings lose their power. Humans have enough self-awareness to be able to ignore the little monster if they truly believe it's for the better. What most people think of as cravings - getting a strong urge to use USM that you can't get over, stress and anxiety from not being able to use, etc. come from the big monster. Without the support of the big monster, cravings are little more than intrusive thoughts - annoying, but ultimately they have no power over you. 
 
-::: {.rmdnote}
+::: {.rmdnote data-latex=""}
 The pain from withdrawals and cravings is almost entirely mental.
 :::
 

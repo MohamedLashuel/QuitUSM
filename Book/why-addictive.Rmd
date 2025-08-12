@@ -16,7 +16,7 @@ The main mechanism making social media addictive is dopamine. Dopamine is a chem
 
 USM use is the digital equivalent of junk food, releasing an amount of dopamine our brains were not equipped to handle on a daily basis. When an unnaturally high amount of dopamine is being released, the brain has a self-correcting mechanism to trim down the number of dopamine receptors.  The brain now receives less dopamine which brings rewards down from USM to normal levels. Unfortunately, it also decreases rewards from all other activities. Actions such as eating or talking to friends feel less satisfying while an increasing amount of USM use is needed to get that same "high" (which is actually a normal level of dopamine). Without USM, the user starts to feel withdrawals. This process is called dopamine desensitization.
 
-::: {.rmdnote}
+::: {.rmdnote data-latex=""}
 If you are affected by dopamine desensitization, you have normal levels of dopamine when using USM and low levels at all other times. Compare to a non-user who has normal levels at some times and high levels at others.
 :::
 
@@ -32,7 +32,7 @@ All popular social media apps are free. They make income by showing advertisemen
 
 Again, the more time you spend on their apps, the more data they collect and the more advertisements they can show you. Thus, they have an incentive to keep you on their apps for as much time as possible. Features like infinite scrolling and autoplay seek to make using their apps as frictionless as possible so you spend more time on them without realizing it. They also love to send you notifications, because each time you click on them and open the app is more time spent.
 
-::: {.rmdcaution}
+::: {.rmdcaution data-latex=""}
 A common saying is "If a service is free, you are the product".
 :::
 
@@ -44,7 +44,7 @@ A common saying is "If a service is free, you are the product".
 ## The addiction trap
 Even though users know all the trouble USM causes, the wasted time, loss of sleep, etc., they actually dread and fear the idea of quitting. They see USM as a crutch or vice which would cause them great pain to give up. Users are torn between wanting to keep using and wanting to quit. Remaining addicted looks like the lesser of two evils, so they choose to keep using rather than quit. This is the addiction trap. Try to understand this in your own experience of USM use: you may recognize that quitting would be better and healthier for you (which I assume is true if you are reading this guide), but at the same time you WANT to pick up the phone to use USM. When you think of quitting, are you excited at the prospect of freedom, or get a feeling of anxiety?
 
-::: {.rmdnote}
+::: {.rmdnote data-latex=""}
 Addiction is suffering, but to addicts it looks like the lesser of two evils.
 :::
 
