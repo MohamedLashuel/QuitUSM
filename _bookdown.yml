@@ -1,10 +1,12 @@
 delete_merged_file: true
+book_filename: main.Rmd
 language:
   ui:
     chapter_name: "Chapter "
 rmd_subdir: "Book"
 output_dir: "docs"
-rmd_files: ["index.Rmd",
+rmd_files: [
+  "index.Rmd",
   "Book/why-addictive.Rmd",
   "Book/two-monsters.Rmd",
   "Book/fake-benefits.Rmd",
@@ -12,4 +14,5 @@ rmd_files: ["index.Rmd",
   "Book/how-to-quit.Rmd",
   "Book/summary.Rmd",
   "Book/APPENDIX-further-reading.Rmd",
-  "Book/APPENDIX-useful-software.Rmd"]
+  "Book/APPENDIX-useful-software.Rmd"
+]
