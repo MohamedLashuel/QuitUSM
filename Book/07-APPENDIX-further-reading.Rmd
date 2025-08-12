@@ -1,7 +1,0 @@
-# (APPENDIX) Appendix {-}
-# Appendix A: Further Reading
-- *Allen Carr's Easy Way to Stop Smoking*: Covers smoking and not social media but I found the points applicable to USM. Details the little monster and big monster and argues smoking has no real benefit. There is a version specifically made for social media called *Smart Phone Dumb Phone* but I found it not to be as well written.
-- *The Freedom Model for Addictions*: Debunks the idea that addiction is involuntary and instead argues that addicts prefer using to quitting. Focuses on hard drugs/alcohol but applicable to all addiction. The abridged version is available free [here](https://archive.org/details/freedom-model-abridged/Freedom%20Model%20Abridged/)
-- *Rational Recovery*: Divides addiction into two parts: you, and the "beast" which only wants to stay addicted (similar to the little/big monster). Details on how to be aware of the beast's thoughts and ignore them. Helpful if you still struggle with cravings.
-- *Digital Minimalism*: Talks on the reasons social media and technology is addictive and how to build a healthier relationship with it
-- [Center for Humane Technology's Ledger of Harms](https://ledger.humanetech.com/): Studies on the harms and societal effects caused by social media

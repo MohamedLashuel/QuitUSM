@@ -1,0 +1,52 @@
+#  Addictive aspects {#why-addictive}
+Throughout this book I will refer to two different types of social media use:
+
+- *Personal*: Using social media to view and share content with family, friends, or acquaintances. 
+- *Impersonal*: Using social media to view content from people you don't know.
+
+Your text messaging app is purely personal. YouTube and TikTok are examples of mostly impersonal apps, where most who use them just go through recommended videos. Most social media sites have both personal and impersonal elements. Facebook and Instagram were created to be primarily personal but will now shove onto your feed recommended posts from complete strangers.
+
+## Why is social media addictive?
+### Dopamine {#dopamine}
+The main mechanism making social media addictive is dopamine. Dopamine is a chemical in the brain that is released when anticipating a reward. It reinforces and makes us repeat behaviors - if you eat a cookie (which releases dopamine) and find it pleasurable, you are likely to eat more. Sweet foods such as fruits were rare and valuable in prehistoric times, so our brains evolved to release dopamine in reaction to sugar, to encourage us to eat more of them. But in today's age, we have an unlimited supply of foods sweeter than anything natural, and many overconsume as a result. Social media also hijacks our natural rewards in the same way:
+
+- **We seek out and are rewarded for social connections.** Personal social media keeps us constantly in the loop about friends and family and also lets us talk to millions of strangers across the globe. We also receive feedback from them in the form of "likes"/"dislikes". In fact, studies have shown higher social media use to be connected with higher levels of loneliness time and time again.
+- We are rewarded for finding information and novelty. When scrolling through social media posts or short videos, we are bombarding our brains with information and "new" things. This applies more to impersonal social media which can supply an endless stream of posts.
+- Social media uses a variable reward scheme rather than a fixed reward scheme. This is the same principle that a slot machine uses. While you're scrolling through videos, whether you find a funny one and are entertained is random. Or when you make a post, you can't predict if it will blow up and get you many likes/good comments. Random rewards are much more addictive than predictable rewards. Imagine how less entertaining a slot machine would be if it simply rewarded you every 3rd spin instead of randomly.
+
+USM use is the digital equivalent of junk food, releasing an amount of dopamine our brains were not equipped to handle on a daily basis. When an unnaturally high amount of dopamine is being released, the brain has a self-correcting mechanism to trim down the number of dopamine receptors.  The brain now receives less dopamine which brings rewards down from USM to normal levels. Unfortunately, it also decreases rewards from all other activities. Actions such as eating or talking to friends feel less satisfying while an increasing amount of USM use is needed to get that same "high" (which is actually a normal level of dopamine). Without USM, the user starts to feel withdrawals. This process is called dopamine desensitization.
+
+::: {.rmdnote}
+If you are affected by dopamine desensitization, you have normal levels of dopamine when using USM and low levels at all other times. Compare to a non-user who has normal levels at some times and high levels at others.
+:::
+
+The physical effect of withdrawals is lowered dopamine levels in the brain. This results in a low mood, lack of pleasure from normal activities, boredom, and/or low motivation. If you watch YouTube for 5 hours, by the end you have no drive to accomplish anything and everything feels less enjoyable. USM addicts often suffer from anhedonia (loss of pleasure in normal activities) and find it difficult to muster the energy to work. 
+
+Fortunately, the brain is able to recover from desensitization in a matter of weeks, with physical withdrawals diminishing then disappearing, if the source of unnaturally high dopamine (USM in our case) is removed.
+
+### Intentional Design
+All popular social media apps are free. They make income by showing advertisements to their users. These apps collect data on what you do in their apps, which posts you watch or like, what you search for, which communities you visit, etc. They do two things with this information:
+
+- Feed it to their algorithms in order to determine which content to recommend to you. For example, as you use YouTube more, it will learn which videos you like watching, and the videos you get recommended will be more and more likely to draw your interest. The goal is to maximize the time you spend in their app to show you more advertisements.
+- Serve you targeted ads based on your predicted demographics, location, and interests. With the personalized data they have, your attention becomes especially valuable to advertisers who are willing to pay more to show their ads to the exact type of customer they want.
+
+Again, the more time you spend on their apps, the more data they collect and the more advertisements they can show you. Thus, they have an incentive to keep you on their apps for as much time as possible. Features like infinite scrolling and autoplay seek to make using their apps as frictionless as possible so you spend more time on them without realizing it. They also love to send you notifications, because each time you click on them and open the app is more time spent.
+
+::: {.rmdcaution}
+A common saying is "If a service is free, you are the product".
+:::
+
+## Other factors
+- *Availability*: For most of us, our phones are with us 24/7, with social media apps taking only a few seconds to access. This makes it easy to act on impulses and build habits of opening them. It also naturally fills up our downtime, such as if we're waiting at a bus stop.
+- *Fear of missing out (FOMO)* (Personal social media): Humans hate being excluded socially. When putting down, for example, Facebook or Instagram, we worry about missing out on friends' activities. We also like being "in the loop" on current events and trends. It feels uncomfortable to not have access to this information if we are used to it.
+- *Normalcy*: Anything that society accepts and views as normal will be more easily acceptable to me or you. In other words, "It's okay if everyone does it". On the other side, people fear sticking out by not using social media.
+
+## The addiction trap
+Even though users know all the trouble USM causes, the wasted time, loss of sleep, etc., they actually dread and fear the idea of quitting. They see USM as a crutch or vice which would cause them great pain to give up. Users are torn between wanting to keep using and wanting to quit. Remaining addicted looks like the lesser of two evils, so they choose to keep using rather than quit. This is the addiction trap. Try to understand this in your own experience of USM use: you may recognize that quitting would be better and healthier for you (which I assume is true if you are reading this guide), but at the same time you WANT to pick up the phone to use USM. When you think of quitting, are you excited at the prospect of freedom, or get a feeling of anxiety?
+
+::: {.rmdnote}
+Addiction is suffering, but to addicts it looks like the lesser of two evils.
+:::
+
+From an outsider's perspective, it's easy to see that, for example, a heavy smoker really would be better off if he gave up smoking. After all, it causes numerous health issues, costs a lot of money, and for what benefit? The smoker, however, can't see it this way because he is inside the trap. USM addicts are likewise fooled by the trap into thinking that USM is a genuine pleasure or benefit, or that they would suffer a great loss if they gave it up.
+
