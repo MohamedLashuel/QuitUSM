@@ -46,6 +46,6 @@ EVIL HACK ALERT
 If I don't include this zero-size image, there is an ugly gray box around the license image covering the width of the page. Why does this work?
 -->
 ![](images/cc.png){width=0px}
-<img src="images/cc.png" alt="License" width="120"/>
+<img src="images/cc.png" alt="CC-BY 4.0 License" width="120"/>
 
 This website's code is open source and hosted on Github [here](https://github.com/MohamedLashuel/QuitUSM/) licensed under the [MIT License](https://github.com/MohamedLashuel/QuitUSM/blob/main/LICENSE).

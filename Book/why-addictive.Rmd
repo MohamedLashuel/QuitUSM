@@ -8,7 +8,9 @@ Your text messaging app is purely personal. YouTube and TikTok are examples of m
 
 ## Why is social media addictive?
 ### Dopamine {#dopamine}
-The main mechanism making social media addictive is dopamine. Dopamine is a chemical in the brain that is released when anticipating a reward. It reinforces and makes us repeat behaviors - if you eat a cookie (which releases dopamine) and find it pleasurable, you are likely to eat more. Sweet foods such as fruits were rare and valuable in prehistoric times, so our brains evolved to release dopamine in reaction to sugar, to encourage us to eat more of them. But in today's age, we have an unlimited supply of foods sweeter than anything natural, and many overeat as a result. Social media also hijacks our natural rewards in the same way:
+The main mechanism making social media addictive is dopamine. Dopamine is a chemical in the brain that is released when anticipating a reward. It reinforces and makes us repeat behaviors - if you eat a cookie (which releases dopamine) and find it pleasurable, you are likely to eat more. Sweet foods such as fruits were rare and valuable in prehistoric times, so our brains evolved to release dopamine in reaction to sugar, to encourage us to eat more of them. But in today's age, we have an unlimited supply of foods sweeter than anything natural, and many overeat as a result. Social media also hijacks our natural rewards in the same way.
+
+<center>![](images/usm_cycle.png)</center>
 
 - **We seek out and are rewarded for social connections.** Personal social media keeps us constantly in the loop about friends and family and lets us talk to millions of strangers across the globe. We also receive feedback from them in the form of likes, dislikes, reactions or comments.
 - **We are rewarded for finding information and novelty.** When scrolling through social media posts or short videos, we are bombarding our brains with information and new things. This applies more to impersonal social media which can supply an endless stream of posts.
@@ -20,7 +22,11 @@ USM use is the digital equivalent of junk food, releasing an amount of dopamine 
 USM users have normal levels of dopamine when using USM and low levels at all other times. Compare to a non-user who has normal levels at some times and high levels at others.
 :::
 
-The physical effect of withdrawals is lowered dopamine levels in the brain. This results in a low mood, lack of pleasure from normal activities, boredom, and/or low motivation. If you watch YouTube for 5 hours, by the end you have no drive to accomplish anything and everything feels less enjoyable. USM addicts often suffer from anhedonia (loss of pleasure in normal activities) and find it difficult to muster the energy to work. 
+If the reward from using USM was drawn on a graph, it would look like this:
+
+![](images/dopamine_graph.png){width=90%}
+
+The physical effect of withdrawals is lowered dopamine levels in the brain. This results in a low mood, lack of pleasure from normal activities, boredom, and/or low motivation. If you watch YouTube for 5 hours, by the end you have no drive to accomplish anything and everything feels less enjoyable. USM addicts often suffer from anhedonia (loss of pleasure in normal activities) and find it difficult to muster the energy to work. Many people experience these symptoms without even being aware they are dopamine withdrawals from USM use. 
 
 Probably the most insidious withdrawal symptom is the sense of emptiness that comes when not using USM. Whenever you have free time, it feels like something is missing. You feel restlessness which only goes away if you use USM. This leads to a strong desire to use USM in order to fill the void, as nothing else will work.
 
