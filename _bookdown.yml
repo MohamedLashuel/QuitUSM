@@ -13,6 +13,7 @@ rmd_files: [
   "Book/not-quit.Rmd",
   "Book/how-to-quit.Rmd",
   "Book/summary.Rmd",
+  "Book/feedback.Rmd",
   "Book/APPENDIX-further-reading.Rmd",
   "Book/APPENDIX-useful-software.Rmd"
 ]
